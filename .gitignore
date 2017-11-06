@@ -19,3 +19,9 @@
 
 # Ignore dotenv files
 /.env*
+
+# Ignore dotenv files
+/.env*
+
+.rbenv-gemsets
+examples.txt
